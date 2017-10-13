@@ -11,3 +11,8 @@ Support or refute the claim:
 # Lab3:
 Support or refute the claim:
 "The financial markets do not punish security breaches."
+
+# Lab4:
+Retrieve and clean 3 Datasets that benefit prospective students
+for Santa Clara University's MSIS masters program.
+(Involves scraping web pages with beautifulsoup, pdfquery)

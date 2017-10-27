@@ -6,7 +6,7 @@ In the past several weeks, three hurricanes devastated three parts of the United
 
 Here are trend lines showing rises in conversation on TV about each hurricane-affected area over the days before and after the hurricanes made landfall. The spike in TV conversation about Puerto Rico right as the hurricane hit was much smaller than the spike in mentions of Texas and Florida as hurricanes hit each of those areas.
 
-## How different cable news channels covered the hurricanes
+## How Different Cable News Channels Covered the Hurricanes
 
 Among the TV news outlets reporting on the hurricanes, some spoke more than others about said hurricanes, as seen below:
 
@@ -17,6 +17,8 @@ Among the TV news outlets reporting on the hurricanes, some spoke more than othe
 ![Maria](Maria.png)
 
 BBC News, a British TV network, gained more interest in the hurricanes over time and covered Hurricane Maria (the hurricane that hit Puerto Rico) more than any U.S. network did. Within US networks, CNN seems to have covered Hurricane Maria the most. MSNBC became less and less interested in the hurricanes over time.
+
+## Concluding Thoughts
 
 Why the abysmal lack of coverage? Surveys have shown most US Citizens were unaware that Puerto Rico is part of the United States. Maybe little worth was felt in reporting about Puerto Rico because they are smaller, farther away, and less populated than the rest of the USA. Maybe it's because they're not an official state despite being a US territory since 1898.
 

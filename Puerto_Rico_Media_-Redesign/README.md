@@ -3,6 +3,7 @@
 In the past several weeks, three hurricanes devastated three parts of the United States - Texas, Florida and Puerto Rico. Of those three, the hurricane that impacted Puerto Rico received the least attention.
 
 ![Spikes](Spikes.png)
+![red1](RawData/red1.png)
 
 Here are trend lines showing rises in conversation on TV about each hurricane-affected area over the days before and after the hurricanes made landfall. The spike in TV conversation about Puerto Rico right as the hurricane hit was much smaller than the spike in mentions of Texas and Florida as hurricanes hit each of those areas.
 

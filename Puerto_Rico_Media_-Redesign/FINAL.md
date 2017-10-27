@@ -2,8 +2,7 @@
 
 In the past several weeks, three hurricanes devastated three parts of the United States - Texas, Florida and Puerto Rico. Of those three, the hurricane that impacted Puerto Rico received the least attention.
 
-![Spikes](Spikes.png)
-![red1](RawData/red1.png)
+![Spikes](FinalVisuals/Spikes.png)
 
 Here are trend lines showing rises in conversation on TV about each hurricane-affected area over the days before and after the hurricanes made landfall. The spike in TV conversation about Puerto Rico right as the hurricane hit was much smaller than the spike in mentions of Texas and Florida as hurricanes hit each of those areas.
 
@@ -11,11 +10,11 @@ Here are trend lines showing rises in conversation on TV about each hurricane-af
 
 Among the TV news outlets reporting on the hurricanes, some spoke more than others about said hurricanes, as seen below:
 
-![Harvey](Harvey.png)
+![Harvey](FinalVisuals/Harvey.png)
 
-![Irma](Irma.png)
+![Irma](FinalVisuals/Irma.png)
 
-![Maria](Maria.png)
+![Maria](FinalVisuals/Maria.png)
 
 BBC News, a British TV network, gained more interest in the hurricanes over time and covered Hurricane Maria (the hurricane that hit Puerto Rico) more than any U.S. network did. Within US networks, CNN seems to have covered Hurricane Maria the most. MSNBC became less and less interested in the hurricanes over time.
 

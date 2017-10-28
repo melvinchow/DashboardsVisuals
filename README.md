@@ -15,7 +15,10 @@ Support or refute the claim:
 ## Lab4:
 Retrieve and clean 3 Datasets that benefit prospective students
 for Santa Clara University's MSIS masters program.
-(Involves scraping web pages with beautifulsoup, pdfquery)
+
+## Lab 6:
+Design a dashboard about Santa Clara University's MSIS program,
+containing information that would benefit job recruiters looking to hire graduates from said program.
 
 ## Redesign Project
 Redesign visualizations in an article arguing that Puerto Rico received too little attention during their hurricane crisis

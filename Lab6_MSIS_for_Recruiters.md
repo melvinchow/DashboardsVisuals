@@ -1,4 +1,4 @@
-
+# Lab 6: Dashboard about SCU MSIS Program for Recruiters
 
 Recruiters would be interested in knowing how Santa Clara University compares to other colleges that have a business school, so a school ranking chart is included.  SCU is highlighted in dark blue.
 

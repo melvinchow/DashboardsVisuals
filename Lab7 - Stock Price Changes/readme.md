@@ -1,4 +1,6 @@
-# Lab 7
+# Lab 7 (Lab 3 Redesign)
+
+### Support / Refute the following claim: "Financial markets punish security breaches"
 
 In the previous attempt, my data only contained year of data breach, and nothing more specific. I decided that number of records lost, data sensitivty of lost records, method of leak and organization type are all irrelevant. The one fact that is of primary concern is that a company is breached, and that fact alone is enough to trigger stock market fluctuations.
 

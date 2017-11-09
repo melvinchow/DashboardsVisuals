@@ -21,7 +21,10 @@ Design a dashboard about Santa Clara University's MSIS program,
 containing information that would benefit job recruiters looking to hire graduates from said program.
 
 ## Lab 7:
-Redesign of Lab 3. Different dataset used
+Redesign of Lab 3.  Different dataset used
+
+## Lab 8:
+Redesign of Lab 5.
 
 ## Redesign Project
-Redesign visualizations in an article arguing that Puerto Rico received too little attention during their hurricane crisis
+Puerto Rico hurricane crisis of summer 2017.

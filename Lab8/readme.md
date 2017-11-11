@@ -22,3 +22,6 @@ I realized both were confusing to anyone who doesn't know the ranking's details,
 * Best for Business in America
 * Best value for money schools
 These titles are understandable to everybody reading. Any details they want to learn, they can learn from the ranking sources I listed in the fact sheet.
+
+Here is the final result:
+![PriceChange1](PriceChange1.png)

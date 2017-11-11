@@ -26,5 +26,8 @@ I realized both were confusing to anyone who doesn't know the ranking's details,
 
 These titles are understandable to everybody reading. Any details they want to learn, they can learn from the ranking sources I listed in the fact sheet.
 
-Here is the final result:
+Here is one draft:
 ![Fact_Sheet](Fact_Sheet.jpg)
+
+Here is the same thing with integrated data:
+![Fact_Sheet_V2](Fact_Sheet_V2.jpg)

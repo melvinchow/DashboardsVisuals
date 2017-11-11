@@ -16,6 +16,10 @@ Support or refute the claim:
 Retrieve and clean 3 Datasets that benefit prospective students
 for Santa Clara University's MSIS masters program.
 
+## Lab5:
+Design a fact sheet on Santa Clara University's MSIS Program
+(Masters of Science in Information Systems)
+
 ## Lab 6:
 Design a dashboard about Santa Clara University's MSIS program,
 containing information that would benefit job recruiters looking to hire graduates from said program.

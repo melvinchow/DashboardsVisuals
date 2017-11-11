@@ -19,6 +19,7 @@ With such limited space (one page) this fact sheet needs to be understandable to
 Rankings I previously used were:
 * Best in regional universities west
 * Best value schools
+
 I realized both were confusing to anyone who doesn't know the ranking's details, so I changed them to:
 * Best for Business in America
 * Best value for money schools

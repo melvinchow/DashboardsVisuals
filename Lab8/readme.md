@@ -24,4 +24,4 @@ I realized both were confusing to anyone who doesn't know the ranking's details,
 These titles are understandable to everybody reading. Any details they want to learn, they can learn from the ranking sources I listed in the fact sheet.
 
 Here is the final result:
-![Melvin_Lab5/ MSIS/ Program](Melvin_Lab5/ MSIS/ Program.jpg)
+![Fact_Sheet](Fact_Sheet.jpg)

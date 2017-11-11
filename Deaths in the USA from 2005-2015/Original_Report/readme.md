@@ -6,3 +6,7 @@ His claims were:
 
 Article from:  
 https://www.kaggle.com/mchirico/gun-vs-vehicle-deaths/notebook
+
+![Gun_Vs_Vehicle(Age)](Gun_Vs_Vehicle(Age).png)
+![Gun_Vs_Vehicle(Age+Race)](Gun_Vs_Vehicle(Age+Race).png)
+![Gun_Incidents(Age+Race)](Gun_Incidents(Age+Race).png)

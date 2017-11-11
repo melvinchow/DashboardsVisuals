@@ -20,11 +20,11 @@ Rankings I previously used were:
 * Best in regional universities west
 * Best value schools
 
-I realized both were confusing to anyone who doesn't know the ranking's details, so I changed them to:
+Those were confusing to anyone who didn't know the ranking's details or meanings, so I changed them to:
 * Best for Business in America
 * Best value for money schools
 
-These titles are understandable to everybody reading. Any details they want to learn, they can learn from the ranking sources I listed in the fact sheet.
+Which are titles understandable to anybody reading. Any further details they'd like to know, they can find from the sources I listed in the fact sheet.
 
 Here is one draft:
 ![Fact_Sheet](Fact_Sheet.jpg)

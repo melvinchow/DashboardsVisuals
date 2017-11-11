@@ -1,3 +1,5 @@
-# Lab 8
+# MSIS Program Fact Sheet
 
-Redesign of Lab 5
+Ranking,
+Student/faculty ratio,
+City crime rates

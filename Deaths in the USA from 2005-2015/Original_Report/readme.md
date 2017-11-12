@@ -1,7 +1,7 @@
 ## Original article from which I am refuting the writer's claims.
 
 His claims were:
-* Whites are a much bigger threat to safety than blacks
+* Whites face a much bigger safety threat from guns than blacks do
 * Gun deaths happen more frequently than vehicle deaths
 
 Article from:  

@@ -1,6 +1,6 @@
 ## Original article from which I am refuting the writer's claims.
 
-His claims were:
+Reading the original article, the messages I got were that:
 * Whites face a much bigger threat of death by guns than blacks do
 * Gun deaths happen more frequently than vehicle deaths
 

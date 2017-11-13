@@ -1,5 +1,7 @@
+# Whites vs. Non-Whites
+
+![Race_Deaths](Race_Deaths.png)
+
 # Vehicles bring more deaths than guns
 
-
-
-# Whites vs. Non-Whites
+![Gun_Vehicle_Deaths](Gun_Vehicle_Deaths.png)

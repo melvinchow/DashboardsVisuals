@@ -14,8 +14,9 @@ There has always been more non-white deaths than white deaths as the years go by
 
 Vehicle deaths happen much more frequently than gun deaths, and the death rates of each have remained the same. Maybe vehicle laws or traffic law enforcement practices need revamping more than gun laws do.
 
+Gun deaths do not include suicides. Vehicle deaths include land vehicles and motorcycles. Planes and water vehicles are disregarded.
 
-## Non-deceptive Versions of Charts
+## Non-Deceptive (Truthful) Versions of Charts
 
 ![Races_(Deceptive)](Visuals/Races.png)
 

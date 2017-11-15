@@ -28,12 +28,15 @@ I hid the data from 2009 and earlier years, because those years show a sudden dr
 
 ## Arguement Model
 
-Claims:
+Claims:  
 * There are more non-white deaths than white deaths in the USA.
 * There are more vehicle deaths than gun deaths in the USA
-Data:
+
+Data:  
 * Details of death victims in the USA, from 2005 to 2015.
+
 Qualifier:
 * Causes of death & race of dead victims, by year
+
 Warrant:
 * Counts of how many died, filtered by race and cause of death

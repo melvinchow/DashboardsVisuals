@@ -30,5 +30,5 @@ Redesign of Lab 3.  Different dataset used
 ## Lab 8:
 Redesign of Lab 5.
 
-## Redesign Project
-Puerto Rico hurricane crisis of summer 2017.
+## Puerto Rico Media
+Redesign charts describing Puerto Rico's hurricane crisis of summer 2017.

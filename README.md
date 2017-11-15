@@ -1,21 +1,21 @@
 # DashboardsVisuals
 
-## Lab1:
+## Lab 1:
 Most popular methods of stealing data between 2004-2017
 
-## Lab2:
+## Lab 2:
 Support or refute the claim:
 “Security   breaches   do   mostly   occur   in   less-tech-savvy   organizations”
 
-## Lab3:
+## Lab 3:
 Support or refute the claim:
 "The financial markets do not punish security breaches."
 
-## Lab4:
+## Lab 4:
 Retrieve and clean 3 Datasets that benefit prospective students
 for Santa Clara University's MSIS masters program.
 
-## Lab5:
+## Lab 5:
 Design a fact sheet on Santa Clara University's MSIS Program  
 (Masters of Science in Information Systems)
 

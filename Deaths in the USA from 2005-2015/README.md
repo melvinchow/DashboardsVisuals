@@ -6,11 +6,9 @@ Reading the original article, the messages I got from the author were that:
 
 Well, I don't see the same problems when arranging the data by year and including other races in the population other than blacks and whites.
 
-![Races_(Deceptive)](Visuals/Races_(Deceptive).png)
 
 There has always been more non-white deaths than white deaths as the years go by. Taking into account all possible methods of death, whites are not dying at a faster rate than other races.
 
-![Guns_Vehicles_(Deceptive)](Visuals/Guns_Vehicles_(Deceptive).png)
 
 Vehicle deaths happen much more frequently than gun deaths, and the death rates of each have remained the same. Maybe vehicle laws or traffic law enforcement practices need revamping more than gun laws do.
 

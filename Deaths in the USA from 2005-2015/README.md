@@ -17,10 +17,10 @@ Vehicle deaths happen much more frequently than gun deaths, and the death rates 
 
 ## Non-deceptive Versions of Charts
 
-![Races_(Deceptive)](Visuals/Races_(Deceptive).png)
+![Races_(Deceptive)](Visuals/Races.png)
 
 I wanted to hide the years earlier than 2010, because more whites than non-whites died in those years. If my opposition saw that, they would argue that there is a history of whites have facing more danger than non-whites, so if it has been a problem before, it could be a problem again.
 
-![Guns_Vehicles_(Deceptive)](Visuals/Guns_Vehicles_(Deceptive).png)
+![Guns_Vehicles_(Deceptive)](Visuals/Guns_Vehicles.png)
 
 I hid the data from 2009 and earlier years, because those years show a sudden drop in the number of vehicle deaths. If seen by my opposition, they can argue that if vehicle deaths are dropping while gun deaths stay the same, then in the future gun deaths will be a bigger problem than vehicle deaths.

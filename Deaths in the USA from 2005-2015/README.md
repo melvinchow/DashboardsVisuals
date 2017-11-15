@@ -8,7 +8,7 @@ Well, I don't see the same problems when arranging the data by year and includin
 
 ![Races_(Deceptive)](Visuals/Races_(Deceptive).png)
 
-There has always been more non-white deaths than white deaths as the years go by. Whether or not guns are involved isn't the problem, and whites are not dying at any faster rate compared to other races.
+There has always been more non-white deaths than white deaths as the years go by. Taking into account all possible methods of death, whites are not dying at any faster rate compared to other races.
 
 ![Guns_Vehicles_(Deceptive)](Visuals/Guns_Vehicles_(Deceptive).png)
 

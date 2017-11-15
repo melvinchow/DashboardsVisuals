@@ -13,3 +13,6 @@ There has always been more non-white deaths than white deaths as the years go by
 ![Guns_Vehicles_(Deceptive)](Guns_Vehicles_(Deceptive).png)
 
 Vehicle deaths happen much more frequently than gun deaths, and the death rates of each have remained the same. Maybe vehicle laws or traffic law enforcement practices need revamping more than gun laws do.
+
+
+## Non-deceptive Versions of Charts

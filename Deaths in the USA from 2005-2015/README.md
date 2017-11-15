@@ -20,8 +20,8 @@ Gun deaths do not include suicides, because if someone wanted to commit suicide,
 
 ![Races_(Deceptive)](Visuals/Races.png)
 
-I wanted to hide the years earlier than 2010, because more whites than non-whites died in those years. If my opposition saw that, they would argue that there is a history of whites have facing more danger than non-whites, so if it has been a problem before, it could be a problem again.
+I wanted to hide the years earlier than 2010, because more whites than non-whites died in those years. If my opposition saw that, they would argue that there is a history of whites facing more danger than non-whites, so if it has been a problem before, it could be a problem again.
 
 ![Guns_Vehicles_(Deceptive)](Visuals/Guns_Vehicles.png)
 
-I hid the data from 2009 and earlier years, because those years show a sudden drop in the number of vehicle deaths. If seen by my opposition, they can argue that if vehicle deaths are dropping while gun deaths stay the same, then in the future gun deaths will be a bigger problem than vehicle deaths.
+I hid the data from 2009 and earlier years, because those years show a sudden drop in the number of vehicle deaths. If seen by my opposition, they can argue that if vehicle deaths are dropping while gun deaths stay the same, gun deaths will surpass vehicle deaths in the future, so guns really are a bigger problem than vehicles.

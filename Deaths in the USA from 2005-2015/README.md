@@ -8,8 +8,8 @@ Well, I don't see the same problems when arranging the data by year and includin
 
 ![Races_(Deceptive)](Races_(Deceptive).png)
 
-Non-white deaths are surpassing white deaths as the years go by. Whether or not guns are involved isn't the problem, and whites are not dying at any faster rate compared to other races.
+There has always been more non-white deaths than white deaths as the years go by. Whether or not guns are involved isn't the problem, and whites are not dying at any faster rate compared to other races.
 
 ![Guns_Vehicles_(Deceptive)](Guns_Vehicles_(Deceptive).png)
 
-Vehicle deaths happen much more frequently than gun deaths. Maybe vehicle laws or traffic law enforcement practices need revamping more than gun laws do.
+Vehicle deaths happen much more frequently than gun deaths, and the death rates of each have remained the same. Maybe vehicle laws or traffic law enforcement practices need revamping more than gun laws do.

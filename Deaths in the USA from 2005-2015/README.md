@@ -25,3 +25,15 @@ I wanted to hide the years earlier than 2010, because more whites than non-white
 ![Guns_Vehicles_(Deceptive)](Visuals/Guns_Vehicles.png)
 
 I hid the data from 2009 and earlier years, because those years show a sudden drop in the number of vehicle deaths. If seen by my opposition, they can argue that if vehicle deaths are dropping while gun deaths stay the same, gun deaths will surpass vehicle deaths in the future, so guns really are a bigger problem than vehicles.
+
+## Arguement Model
+
+Claims:
+* There are more non-white deaths than white deaths in the USA.
+* There are more vehicle deaths than gun deaths in the USA
+Data:
+* Details of death victims in the USA, from 2005 to 2015.
+Qualifier:
+* Causes of death & race of dead victims, by year
+Warrant:
+* Counts of how many died, filtered by race and cause of death

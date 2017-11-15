@@ -32,11 +32,11 @@ Claims:
 * There are more non-white deaths than white deaths in the USA.
 * There are more vehicle deaths than gun deaths in the USA
 
-Data:  
-* Details of death victims in the USA, from 2005 to 2015.
-
 Qualifier:
 * Causes of death & race of dead victims, by year
+
+Data:  
+* Details of death victims in the USA, from 2005 to 2015.
 
 Warrant:
 * Counts of how many died, filtered by race and cause of death

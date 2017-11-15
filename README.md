@@ -1,5 +1,4 @@
 # DashboardsVisuals
-SCU MSIS 2629 Class
 
 ## Lab1:
 Most popular methods of stealing data between 2004-2017
